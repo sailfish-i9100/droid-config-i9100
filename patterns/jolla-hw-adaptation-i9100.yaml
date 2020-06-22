@@ -7,6 +7,7 @@ Requires:
 - droid-hal-i9100
 - droid-hal-i9100-img-boot
 - droid-hal-i9100-kernel-modules
+- droid-hal-i9100-detritus
 - droid-config-i9100-sailfish
 - droid-config-i9100-pulseaudio-settings
 - droid-config-i9100-policy-settings
