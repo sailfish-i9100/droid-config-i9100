@@ -7,6 +7,8 @@
 %define vendor_pretty Samsung
 %define device_pretty Galaxy S2
 
+%define dcd_path ./
+
 # Community HW adaptations need this
 %define community_adaptation 1
 
