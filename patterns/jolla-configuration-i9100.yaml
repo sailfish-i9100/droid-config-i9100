@@ -43,5 +43,8 @@ Requires:
 # Mode Control Entity 
 - mce-tools
 
+# command-line network manager 
+- connman-tools
+
 Summary: Jolla Configuration i9100
 
