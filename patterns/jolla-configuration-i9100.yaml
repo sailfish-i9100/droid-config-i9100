@@ -40,5 +40,8 @@ Requires:
 # Flashlight
 - jolla-settings-system-flashlight
 
+# Mode Control Entity 
+- mce-tools
+
 Summary: Jolla Configuration i9100
 
